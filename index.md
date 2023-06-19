@@ -5,5 +5,5 @@ And this is [a really cool article that I found online](https://www.youtube.com/
 
 
 <audio controls>
-    <source src="https://file-examples.com/storage/fefe3c760763a87999556e8/2017/11/file_example_MP3_5MG.mp3" type="audio/mpeg">
+    <source src="https://soundcloud.com/user-1033433/file_example_mp3_5mg-mp3" type="audio/mpeg">
 </audio>
